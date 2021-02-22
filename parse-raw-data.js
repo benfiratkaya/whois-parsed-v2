@@ -299,7 +299,6 @@ var trRegex = {
   creationDate: "Created on..............: *(.+)",
   expirationDate: "Expires on..............: *(.+)",
   dateFormat: "YYYY-MMM-DD",
-  nameServers: "Domain Servers:\n*(.+)\n*(.+)",
   notFound: "No match found",
 };
 
