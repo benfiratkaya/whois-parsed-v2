@@ -55,7 +55,7 @@ Output:
     "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
     "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
   ],
-  "rawData": "......"
+  "raw": "......"
 }
 ```
 
